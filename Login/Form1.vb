@@ -26,20 +26,22 @@
     Private Sub Label4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label4.Click
 
     End Sub
-    Dim i As Integer
-    Dim j As Integer
+    Dim i = 0
+    Dim j As Char
     Private Sub TextBox2_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox2.TextChanged
         For i = 1 To Len(TextBox2.Text)
-            If Asc(i) < 0 And TextBox1.TextLength < 5 Then
+            j = Mid(TextBox2.Text, i, 1)
+            If (AscW(j) > -40870 And AscW(j) < -19967 And TextBox2.TextLength < 5) Or (AscW(j) < 40870 And AscW(j) > 19967 And TextBox2.TextLength < 5) Then
                 Label5.Text = "√"
-                Label4.ForeColor = Color.Lime
+                Label5.ForeColor = Color.Lime
             Else
                 Label5.Text = "×"
-                Label4.ForeColor = Color.Red
+                Label5.ForeColor = Color.Red
             End If
-        Next
-
-
+        Next i
+        If TextBox2.Text = "" Then
+            Label5.Text = ""
+        End If
     End Sub
     Dim n = 0
     Private Sub Form1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Click
@@ -50,8 +52,13 @@
     End Sub
 
     Private Sub TextBox3_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox3.TextChanged
+
+
+    End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         If Not TextBox3.Text = "6020" Then
-            MsgBox("密码错误")
+            MsgBox("密码错误", 1 + 64, "警告")
         End If
     End Sub
 End Class
