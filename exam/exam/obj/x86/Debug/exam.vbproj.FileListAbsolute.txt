@@ -1,0 +1,18 @@
+C:\Users\86171\AppData\Local\Temporary Projects\exam\bin\Debug\exam.exe
+C:\Users\86171\AppData\Local\Temporary Projects\exam\bin\Debug\exam.pdb
+C:\Users\86171\AppData\Local\Temporary Projects\exam\bin\Debug\exam.xml
+C:\Users\86171\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.Form1.resources
+C:\Users\86171\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.Resources.resources
+C:\Users\86171\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+C:\Users\86171\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.exe
+C:\Users\86171\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.xml
+C:\Users\86171\AppData\Local\Temporary Projects\exam\obj\x86\Debug\exam.pdb
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.xml
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.pdb
+D:\wzs\VB\VB_Practice\exam\exam\bin\Debug\exam.exe
+D:\wzs\VB\VB_Practice\exam\exam\bin\Debug\exam.pdb
+D:\wzs\VB\VB_Practice\exam\exam\bin\Debug\exam.xml
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.Form1.resources
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.Resources.resources
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.exe

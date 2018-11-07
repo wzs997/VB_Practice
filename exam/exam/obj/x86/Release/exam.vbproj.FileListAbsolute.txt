@@ -1,0 +1,9 @@
+D:\wzs\VB\VB_Practice\exam\exam\bin\Release\exam.exe
+D:\wzs\VB\VB_Practice\exam\exam\bin\Release\exam.pdb
+D:\wzs\VB\VB_Practice\exam\exam\bin\Release\exam.xml
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Release\exam.Form1.resources
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Release\exam.Resources.resources
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Release\exam.vbproj.GenerateResource.Cache
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Release\exam.exe
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Release\exam.xml
+D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Release\exam.pdb
