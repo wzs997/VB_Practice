@@ -25,17 +25,17 @@ Public Class Form1
         RadioButton16.Text = "错误"
         Button1.Text = "提交试卷！"
     End Sub
-    Dim xuanze1%, xuanze2%, xuanze3%, duoxuan1%, duoxuan2%, duoxuan3%, panduan1%, panduan2%
-    pub  Dim sum = xuanze1 + xuanze2 + xuanze3% + duoxuan1% + duoxuan2% + duoxuan3% + panduan2% + panduan1%
+    Public xuanze1%, xuanze2%, xuanze3%, duoxuan1%, duoxuan2%, duoxuan3%, panduan1%, panduan2%
+    Public sum = (xuanze1% + xuanze2% + xuanze3% + duoxuan1% + duoxuan2% + duoxuan3% + panduan2% + panduan1%)
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        'sum = xuanze1 + xuanze2 + xuanze3% + duoxuan1% + duoxuan2% + duoxuan3% + panduan2% + panduan1%
-        'MsgBox(sum)
+        sum = xuanze1 + xuanze2 + xuanze3% + duoxuan1% + duoxuan2% + duoxuan3% + panduan2% + panduan1%
+        form2.Show()
     End Sub
     Private Sub CheckBox2_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CheckBox2.CheckedChanged,
         CheckBox1.CheckedChanged,
         CheckBox4.CheckedChanged,
         CheckBox3.CheckedChanged
-        If CheckBox2.Checked = True And CheckBox3.Checked = True Then
+        If CheckBox2.Checked = True And CheckBox3.Checked = True And CheckBox4.Checked = False And CheckBox1.Checked = False Then
             duoxuan1 = 20
         Else
             duoxuan1 = 0
@@ -57,10 +57,10 @@ Public Class Form1
         CheckBox9.CheckedChanged,
         CheckBox10.CheckedChanged,
         CheckBox11.CheckedChanged
-        If CheckBox9.Checked = True And CheckBox10.Checked = True And CheckBox11.Checked = True Then
-            xuanze3 = 20
+        If CheckBox9.Checked = True And CheckBox10.Checked = True And CheckBox11.Checked = True And CheckBox12.Checked = False Then
+            duoxuan3 = 20
         Else
-            xuanze3 = 0
+            duoxuan3 = 0
         End If
     End Sub
     Private Sub RadioButton1_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton1.CheckedChanged,
@@ -97,7 +97,7 @@ Public Class Form1
             xuanze2 = 0
         End If
     End Sub
-    Private Sub RadioButton9_CheckedChanged(sender As System.Object, e As System.EventArgs) Handles RadioButton9.CheckedChanged,
+    Private Sub RadioButton9_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton9.CheckedChanged,
         RadioButton10.CheckedChanged,
         RadioButton11.CheckedChanged,
         RadioButton12.CheckedChanged
@@ -116,17 +116,21 @@ Public Class Form1
 
     End Sub
 
-    Private Sub RadioButton13_CheckedChanged(sender As System.Object, e As System.EventArgs) Handles RadioButton13.CheckedChanged,
+    Private Sub RadioButton13_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton13.CheckedChanged,
         RadioButton14.CheckedChanged
         If RadioButton14.Checked = True Then
             panduan1 = 5
+        Else
+            panduan1 = 0
         End If
     End Sub
 
-    Private Sub RadioButton16_CheckedChanged(sender As System.Object, e As System.EventArgs) Handles RadioButton16.CheckedChanged,
+    Private Sub RadioButton16_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles RadioButton16.CheckedChanged,
         RadioButton15.CheckedChanged
         If RadioButton16.Checked = True Then
             panduan2 = 5
+        Else
+            panduan2 = 0
         End If
     End Sub
 End Class
