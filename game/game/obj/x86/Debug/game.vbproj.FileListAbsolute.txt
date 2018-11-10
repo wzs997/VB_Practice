@@ -1,0 +1,18 @@
+C:\Users\86171\AppData\Local\Temporary Projects\game\bin\Debug\game.exe
+C:\Users\86171\AppData\Local\Temporary Projects\game\bin\Debug\game.pdb
+C:\Users\86171\AppData\Local\Temporary Projects\game\bin\Debug\game.xml
+C:\Users\86171\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.Form1.resources
+C:\Users\86171\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.Resources.resources
+C:\Users\86171\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.vbproj.GenerateResource.Cache
+C:\Users\86171\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.exe
+C:\Users\86171\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.xml
+C:\Users\86171\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.pdb
+D:\wzs\VB\VB_Practice\game\game\obj\x86\Debug\game.exe
+D:\wzs\VB\VB_Practice\game\game\obj\x86\Debug\game.xml
+D:\wzs\VB\VB_Practice\game\game\obj\x86\Debug\game.pdb
+D:\wzs\VB\VB_Practice\game\game\bin\Debug\game.exe
+D:\wzs\VB\VB_Practice\game\game\bin\Debug\game.pdb
+D:\wzs\VB\VB_Practice\game\game\bin\Debug\game.xml
+D:\wzs\VB\VB_Practice\game\game\obj\x86\Debug\game.Form1.resources
+D:\wzs\VB\VB_Practice\game\game\obj\x86\Debug\game.Resources.resources
+D:\wzs\VB\VB_Practice\game\game\obj\x86\Debug\game.vbproj.GenerateResource.Cache
