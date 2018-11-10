@@ -1,0 +1,14 @@
+D:\my\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+D:\my\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+D:\my\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\my\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+D:\wzs\VB\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+D:\wzs\VB\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+D:\wzs\VB\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
