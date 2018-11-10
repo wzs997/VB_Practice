@@ -16,3 +16,15 @@ D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.Form1.resources
 D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.Resources.resources
 D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.vbproj.GenerateResource.Cache
 D:\wzs\VB\VB_Practice\exam\exam\obj\x86\Debug\exam.exe
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\exam.exe
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\exam.xml
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\exam.pdb
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\bin\Debug\exam.exe
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\bin\Debug\exam.pdb
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\bin\Debug\exam.xml
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\exam.Form1.resources
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\exam.form2.resources
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\exam.Resources.resources
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\VB_Practice\exam\exam\obj\x86\Debug\GenerateResource.write.1.tlog
