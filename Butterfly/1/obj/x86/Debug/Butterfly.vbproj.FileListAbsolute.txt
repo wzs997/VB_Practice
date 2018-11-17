@@ -1,0 +1,9 @@
+D:\wzs\VB\VB_Practice\Butterfly\1\bin\Debug\1.exe
+D:\wzs\VB\VB_Practice\Butterfly\1\bin\Debug\1.pdb
+D:\wzs\VB\VB_Practice\Butterfly\1\bin\Debug\1.xml
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\_1.Form1.resources
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\_1.Resources.resources
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\Butterfly.vbproj.GenerateResource.Cache
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\1.exe
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\1.xml
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\1.pdb

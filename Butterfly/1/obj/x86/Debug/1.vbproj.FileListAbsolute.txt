@@ -1,0 +1,14 @@
+D:\my\1\1\bin\Debug\1.exe
+D:\my\1\1\bin\Debug\1.pdb
+D:\my\1\1\bin\Debug\1.xml
+D:\my\1\1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\my\1\1\obj\x86\Debug\_1.Form1.resources
+D:\my\1\1\obj\x86\Debug\_1.Resources.resources
+D:\my\1\1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\my\1\1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\my\1\1\obj\x86\Debug\1.exe
+D:\my\1\1\obj\x86\Debug\1.xml
+D:\my\1\1\obj\x86\Debug\1.pdb
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\1.exe
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\1.xml
+D:\wzs\VB\VB_Practice\Butterfly\1\obj\x86\Debug\1.pdb
